@@ -23,7 +23,7 @@ import { InventorProvider } from '../providers/inventor';
     HttpClientModule,
     IonicModule.forRoot(MyApp),
     AngularFireModule.initializeApp({
-      apiKey: "AIzaSyAzG5lmVHksd8vAWRnuR5H-VDFEy3EeoLM",
+      apiKey: "",
       databaseURL: "https://inventor-b89f7.firebaseio.com",
       projectId: "inventor-b89f7"
     }),
